@@ -50,3 +50,29 @@ E:\dotnet work\LMS WEB UI\LMS-UI\LMS\obj\Debug\net6.0\refint\LMS.dll
 E:\dotnet work\LMS WEB UI\LMS-UI\LMS\obj\Debug\net6.0\LMS.pdb
 E:\dotnet work\LMS WEB UI\LMS-UI\LMS\obj\Debug\net6.0\LMS.genruntimeconfig.cache
 E:\dotnet work\LMS WEB UI\LMS-UI\LMS\obj\Debug\net6.0\ref\LMS.dll
+D:\SEM7\LMS-ui\LMS\bin\Debug\net6.0\appsettings.Development.json
+D:\SEM7\LMS-ui\LMS\bin\Debug\net6.0\appsettings.json
+D:\SEM7\LMS-ui\LMS\bin\Debug\net6.0\LMS.staticwebassets.runtime.json
+D:\SEM7\LMS-ui\LMS\bin\Debug\net6.0\LMS.exe
+D:\SEM7\LMS-ui\LMS\bin\Debug\net6.0\LMS.deps.json
+D:\SEM7\LMS-ui\LMS\bin\Debug\net6.0\LMS.runtimeconfig.json
+D:\SEM7\LMS-ui\LMS\bin\Debug\net6.0\LMS.dll
+D:\SEM7\LMS-ui\LMS\bin\Debug\net6.0\LMS.pdb
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\LMS.csproj.AssemblyReference.cache
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\LMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\LMS.AssemblyInfoInputs.cache
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\LMS.AssemblyInfo.cs
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\LMS.csproj.CoreCompileInputs.cache
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\LMS.MvcApplicationPartsAssemblyInfo.cache
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\LMS.RazorAssemblyInfo.cache
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\LMS.RazorAssemblyInfo.cs
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\staticwebassets.build.json
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\staticwebassets.development.json
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\scopedcss\bundle\LMS.styles.css
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\scopedcss\projectbundle\LMS.bundle.scp.css
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\LMS.dll
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\refint\LMS.dll
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\LMS.pdb
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\LMS.genruntimeconfig.cache
+D:\SEM7\LMS-ui\LMS\obj\Debug\net6.0\ref\LMS.dll

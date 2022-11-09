@@ -8,6 +8,7 @@ namespace LMS.Controllers
     public class LoginController : Controller
     {
         private readonly ILoginService _loginService;
+       
 
         public LoginController(ILoginService loginService) {
             _loginService = loginService;
@@ -31,14 +32,14 @@ namespace LMS.Controllers
                 return View(Path.Combine("/", "Views", "Login", "Index.cshtml"));
             }
             AuthenticateResponse res = await response.Content.ReadFromJsonAsync<AuthenticateResponse>();
+
             
             Console.WriteLine(res.firstName);
-
             Response.Cookies.Append("token", res.token);
 
-
+            Console.WriteLine(Request.Cookies["token"]);
             
-            return View(Path.Combine("/" , "Views" , "Home", "Index.cshtml"));
+            return Redirect("/Home/Home");
         }
         
     }
